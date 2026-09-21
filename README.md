@@ -1,17 +1,17 @@
-# mydeck
+# MyDeck
 
-A new card deck aplication project by Ignacio Ayala Poquet.
+A card deck counter application created by Ignacio Ayala Poquet, rewritten as a modern native Android application using Kotlin and Jetpack Compose.
 
-## Getting Started
+## Architecture & Features
 
-This project is a starting point for a Flutter application.
+- **Kotlin & Jetpack Compose**: Modern declarative UI built with Material Design 3.
+- **State Management**: Reactive state using `ViewModel` and `StateFlow`.
+- **Counter Functionality**: Interactive counter preserving the core features and user flow from the original application.
+- **Custom Adaptive Icon**: Adaptive launcher icon tailored for Android devices.
 
-A few resources to get you started if this is your first Flutter project:
+## Build Requirements
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Android SDK 35/36
+- JDK 21
+- Gradle (Kotlin DSL)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

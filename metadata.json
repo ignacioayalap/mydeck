@@ -1,0 +1,6 @@
+{
+  "name": "MyDeck",
+  "description": "Card deck counter application rewritten in Android with Jetpack Compose",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

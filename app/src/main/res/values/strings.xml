@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyDeck</string>
+    <string name="home_title">Flutter Demo Home Page</string>
+    <string name="push_counter_label">You have pushed the button this many times:</string>
+    <string name="increment_tooltip">Increment</string>
+    <string name="deck_info">Card deck and counter by Ignacio Ayala Poquet</string>
+</resources>
